@@ -1,0 +1,39 @@
+body.landing{
+	background: url("images/fur.jpg") no-repeat center center fixed; 
+	text-align: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.landing h1{
+	font-size: 4em;
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+	text-shadow: 0 0 15px black;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+.landing img{
+	border-radius: 50%;
+	display: inline-block;
+	box-shadow: 0 0 10px black;
+}
+.landing a{
+	display: block;
+	margin-top: 25px;
+	font-size: 3em;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: 'Shadows Into Light', cursive;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+.landing a:hover{
+	color: red;
+}
+body.findsublet{
+
+}
+.findsublet h1{
+	
+}
