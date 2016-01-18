@@ -31,9 +31,23 @@ body.landing{
 .landing a:hover{
 	color: red;
 }
-body.findsublet{
+.index {
+	background: url("images/Fur1.jpg") no-repeat center center fixed; 
+	text-align: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;	
 
 }
-.findsublet h1{
-	
+.index h1 h2{
+	font-size: 3em;
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+	text-shadow: 0 0 15px black;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black; 
+}
+.index p{
+	font-size: 1em;
+	color: black;
 }
